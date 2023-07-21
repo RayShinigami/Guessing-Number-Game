@@ -1,4 +1,4 @@
-prompt("Open the console pressing shift + I + n on your keyboard \n and Press Ok here");
+prompt("Open the console pressing ctrl + shift + I on your keyboard \n and Press Ok here");
 prompt("Read The console");
 console.log("Welcome to The game......\n I guess u have Successfully Opened up The console \n Well it is one of my first Codes So tell me how it is\n So lets get started, Shall we??")
 console.log("Enter Your Number")
